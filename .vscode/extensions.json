@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "wmaurer.change-case",
+        "editorconfig.editorconfig",
+        "davidanson.vscode-markdownlint",
+        "ms-vscode-remote.remote-containers",
+        "ryanluker.vscode-coverage-gutters",
+        "esbenp.prettier-vscode",
+        "dsznajder.es7-react-js-snippets",
+        "dbaeumer.vscode-eslint"
+    ]
+}
